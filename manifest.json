@@ -1,0 +1,11 @@
+{
+    "name": "svelte-chrome-extention-boilerplate",
+    "description": "this is svelte-chrome-extention-boilerplate",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "src/popup/popup.html"
+    },
+    "permissions": ["storage"]
+  }
+  
